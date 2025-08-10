@@ -1,2 +1,2 @@
 # Exploring-Airbnb-Market-Trends
-Analyzes the 2019 NYC Airbnb market by merging CSV, TSV, and Excel datasets on pricing, room types, and reviews. Uses Python and Pandas for data cleaning, integration, and exploratory analysis to uncover insights on pricing trends, private room availability, and review activity.
+Data engineering and analysis of 2019 NYC Airbnb listings using Python (Pandas, NumPy). Merges multi-format datasets (CSV, TSV, Excel), performs data type conversions, string normalization, and numeric parsing to enable exploratory analysis of pricing patterns, room-type distribution, and review timelines.
